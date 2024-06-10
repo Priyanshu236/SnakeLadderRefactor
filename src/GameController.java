@@ -1,8 +1,8 @@
 package src;
 
-public class GameController {
+public class GameController implements GameEvents{
 
-    void gameFinished() {
+    public void gameFinished() {
         System.exit(1);
     }
 }
