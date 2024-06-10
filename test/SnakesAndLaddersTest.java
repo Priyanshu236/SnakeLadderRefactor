@@ -1,7 +1,7 @@
 package test;
 
 import org.junit.jupiter.api.Test;
-import src.GameDie;
+import src.gamedie.GameDie;
 
 class SnakesAndLaddersTest {
 
